@@ -1,5 +1,5 @@
 # 14-CryptoClustering
-![Header IMG](Images/PLACEHOLDER.jpg)
+![Header IMG](Images/header_cryptocurrency.png)
 
 ## File Location
 - In Images you can find all images used in this project
@@ -25,7 +25,7 @@ Create a DataFrame with the scaled data and set the "coin_id" index from the ori
 
 The first five rows of the scaled DataFrame should appear as follows:
 
-![scaled_DataFrame](Images/01_scaled_DataFrame.jpg)
+![scaled_DataFrame](Images/01_scaled_DataFrame.png)
 
 Find the Best Value for k Using the Original Scaled DataFrame
 Use the elbow method to find the best value for k using the following steps:
@@ -57,7 +57,7 @@ Create a new DataFrame with the PCA data and set the "coin_id" index from the or
 
 The first five rows of the PCA DataFrame should appear as follows:
 
-![PCA DataFrane](Images/02_PCA_DataFrame.jpg)
+![PCA DataFrane](Images/02_PCA_DataFrame.png)
 
 ind the Best Value for k Using the PCA Data
 Use the elbow method on the PCA data to find the best value for k using the following steps:
