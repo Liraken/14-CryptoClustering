@@ -10,7 +10,7 @@
 
 ## Sources / Refrences
 - Header image https://www.shutterstock.com/image-vector/set-gold-silver-crypto-currencies-golden-775898248
-- https://github.com/ivarvani/CryptoClustering
+- Repo used as refrence: https://github.com/ivarvani/CryptoClustering
 	
 ## Instuctions
 Rename the Crypto_Clustering_starter_code.ipynb file as Crypto_Clustering.ipynb.
