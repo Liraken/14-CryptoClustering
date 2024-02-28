@@ -2,14 +2,15 @@
 ![Header IMG](Images/header_cryptocurrency.png)
 
 ## File Location
-- In Images you can find all images used in this project
-- In ...........................
-- In ...........................
-- In ...........................
+- In Images you can find all images used in this project / readme
+- In 'Refrences' you can find the one repo I refrenced when doing this assignment
+- In 'Resources' you can find the one inital csv used for this assignment
+- In 'Starter_Code' you can find the blank starter files for this assignment
+- In 'Crypto_Clustering.ipynb' you can find the main completed workbook for this assignment
 
-## Sources
-- ..................
-- ..................
+## Sources / Refrences
+- Header image https://www.shutterstock.com/image-vector/set-gold-silver-crypto-currencies-golden-775898248
+- https://github.com/ivarvani/CryptoClustering
 	
 ## Instuctions
 Rename the Crypto_Clustering_starter_code.ipynb file as Crypto_Clustering.ipynb.
