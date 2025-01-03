@@ -1,12 +1,13 @@
 # 14-CryptoClustering
 ![Header IMG](Images/header_cryptocurrency.png)
 
-## File Location
-- In Images you can find all images used in this project / readme
-- In 'Refrences' you can find the one repo I refrenced when doing this assignment
-- In 'Resources' you can find the one inital csv used for this assignment
-- In 'Starter_Code' you can find the blank starter files for this assignment
-- In 'Crypto_Clustering.ipynb' you can find the main completed workbook for this assignment
+
+### **File Directory**
+- **`Images/`**: Contains screenshots and visual assets used in this project and README.
+- **`References/`**: Includes links or files from repositories referenced during the assignment.
+- **`Resources/`**: Contains the initial dataset (`CSV` file) used for this project.
+- **`Starter_Code/`**: Contains blank starter files provided at the beginning of the assignment.
+- **`Crypto_Clustering.ipynb`**: The main Jupyter Notebook containing the completed analysis and code.
 
 ## Sources / Refrences
 - Header image https://www.shutterstock.com/image-vector/set-gold-silver-crypto-currencies-golden-775898248
